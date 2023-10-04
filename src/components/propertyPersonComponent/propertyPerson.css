@@ -1,0 +1,20 @@
+.property-settings {
+    display: inline-block;
+}
+
+.property-card {
+    display: inline-block;
+    max-width: 500px;
+    padding-left: 40px;
+    padding-right: 40px;
+    cursor: pointer;
+}
+
+.property-card label {
+    cursor: pointer;
+}
+
+.property-card:hover {
+    background: rgba(0, 0, 0, 0.1);
+}
+
